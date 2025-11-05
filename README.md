@@ -51,11 +51,11 @@ Monday-Coffee-SQL-Analysis/
 ## 📸 Portfolio Preview
 | Step | Description | Screenshot |
 |------|--------------|-------------|
-| 1 | Database setup | ![1](projects/sql-analysis(1).png) |
-| 2 | Data cleaning | ![2](projects/sql-analysis(2).png) |
-| 3 | City KPIs | ![3](projects/sql-analysis(3).png) |
-| 4 | Product insights | ![4](projects/sql-analysis(4).png) |
-| 5 | Monthly trend | ![5](projects/sql-analysis(5).png) |
+| 1 | Database setup | ![1](sql-analysis(1).png) |
+| 2 | Data cleaning | ![2](sql-analysis(2).png) |
+| 3 | City KPIs | ![3](sql-analysis(3).png) |
+| 4 | Product insights | ![4](sql-analysis(4).png) |
+| 5 | Monthly trend | ![5](sql-analysis(5).png) |
 
 ---
 
